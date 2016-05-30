@@ -1,6 +1,8 @@
 # javagame-space
 A Java game like Space Shooters.
+
 Still in WIP.
+
 Enjoy.
 
 # Screenshot
